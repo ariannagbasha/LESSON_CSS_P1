@@ -29,7 +29,7 @@
 
 1. For CSS to work on HTML, the HTML is convert into DOM tree:
 
-![DOM Tree](/Users/ariannagbasha/Desktop/Dom_Tree.png)
+![DOM Tree](https://www.w3schools.com/js/pic_htmltree.gif)
 
 
 ### [Why CSS](https://www.youtube.com/watch?v=r1xBCi5SOjw)
