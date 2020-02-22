@@ -23,6 +23,14 @@
 
 ### [How CSS Works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 
+*5-7 minute reading*
+
+**Quick Summary**
+
+1. For CSS to work on HTML, the HTML is convert into DOM tree:
+
+![DOM Tree](/Users/ariannagbasha/Desktop/Dom_Tree.png)
+
 
 ### [Why CSS](https://www.youtube.com/watch?v=r1xBCi5SOjw)
 
@@ -40,7 +48,7 @@
 
 #### [Part 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
 
-#### Part 2(https://vimeo.com/25121046)
+#### [Part 2](https://vimeo.com/25121046)
 
 ### [Attributes Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors)
 
