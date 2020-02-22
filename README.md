@@ -23,13 +23,32 @@
 
 ### [How CSS Works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 
-*5-7 minute reading*
+*A 5-7 minute reading*
 
 **Quick Summary**
 
 1. For CSS to work on HTML, the HTML is convert into DOM tree:
+        <p>
+            Let's use:
+            <span> Cascading </span>
+            <span> Style </span>
+            <span> Sheet </span>
+        </p>    
+![DOM Tree](https://www.w3schools.com/js/pic_htmltree.gif) 
 
-![DOM Tree](https://www.w3schools.com/js/pic_htmltree.gif)
+P
+|- "Let's use:"
+|- SPAN
+    |
+|   - "Cascading"
+|- SPAN
+    |
+|   - "Style"
+|- SPAN
+    |
+|   - "Sheets"
+
+![HTML Output](assets/HTML_output.png)
 
 
 ### [Why CSS](https://www.youtube.com/watch?v=r1xBCi5SOjw)
